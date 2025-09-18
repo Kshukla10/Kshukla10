@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩 About Me 
+Hello 👋
+I am Kartikee! I am an undergrad student pursuing my bachelors in Computer Engineering at University of Illinois Chicago. I am currently attending college in Chicago, Illinois. You can reach me out through my [email](kartikee.shukla@gmail.com) or on [linkedin](https://www.linkedin.com/in/kartikee-shukla/).
 
-<!--
-**Kshukla10/Kshukla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
 
-Here are some ideas to get you started:
+Languages: Python, C, C++, Java, Javascript, HTML, CSS, MATLAB, R, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI/Machine Learning: PyTorch, TensorFlow, Transformers, Deep learning
+
+Data Visualization: Pandas, NumPy, Matplotlib, Seaborn
+
+Databases: MySQL, MongoDB
+
+## Connect With Me
+[linkedin](https://www.linkedin.com/in/kartikee-shukla/)  [email](kartikee.shukla@gmail.com) [Github](https://github.com/Kshukla10)
