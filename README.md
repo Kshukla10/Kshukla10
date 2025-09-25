@@ -15,4 +15,3 @@ Databases: MySQL, MongoDB
 ## Connect With Me
 [linkedin](https://www.linkedin.com/in/kartikee-shukla/) 
 [email](kartikee.shukla@gmail.com)
-[Github](https://github.com/Kshukla10)
