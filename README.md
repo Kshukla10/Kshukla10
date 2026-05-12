@@ -19,7 +19,7 @@ Computer Engineering student at University of Illinois Chicago, graduating May 2
 
 ## Featured Projects
 
-### [8-bit ALU | Verilog HDL](https://github.com/yourusername/8-bit-ALU-Verilog)
+### [8-bit ALU | Verilog HDL](https://github.com/Kshukla10/8-bit-ALU-Verilog) 
 Designed and implemented a fully functional 8-bit ALU supporting arithmetic, logical, and shift operations. Built a structured datapath with a dedicated control unit and developed carry-out, overflow, and shift status flags. Verified using ModelSim simulation and a custom testbench.
 
 ### [VLSI CMOS Digital System | 45nm](https://github.com/yourusername/VLSI-CMOS-45nm)
