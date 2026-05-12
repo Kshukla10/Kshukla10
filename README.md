@@ -1,18 +1,49 @@
-# 👩 About Me:
-Hello! I'm Kartikee, an undergraduate student currently pursuing my Bachelor's of Science in Computer Engineering at the University of Illinois Chicago. I’m passionate about exploring and contributing to the field of technology through research and hands-on projects.
+# Hi, I'm Kartikee 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartikee-shukla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikee.shukla@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) Verilog
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kshukla10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kshukla10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshukla10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer Engineering student at University of Illinois Chicago, graduating May 2026, with a strong focus on RTL design, digital systems, and computer architecture. I enjoy building hardware from the ground up, from writing synthesizable Verilog HDL and debugging simulations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshukla10&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Skills
 
+**Programming**
+`Python` `C++` `C`
+
+**Hardware & RTL**
+`Verilog HDL` `RTL Design` `Digital Logic Design` `VLSI Design` `Computer Architecture`
+
+**Tools**
+`ModelSim` `Cadence Virtuoso` `Git` `Jupyter Notebooks`
+
+---
+
+## Featured Projects
+
+### [8-bit ALU | Verilog HDL](https://github.com/yourusername/8-bit-ALU-Verilog)
+Designed and implemented a fully functional 8-bit ALU supporting arithmetic, logical, and shift operations. Built a structured datapath with a dedicated control unit and developed carry-out, overflow, and shift status flags. Verified using ModelSim simulation and a custom testbench.
+
+### [VLSI CMOS Digital System | 45nm](https://github.com/yourusername/VLSI-CMOS-45nm)
+Designed a custom CMOS digital system in 45nm technology using Cadence Virtuoso, targeting 1 GHz performance with low-power constraints. Built a complete standard cell library and core components including adders, multipliers, flip-flops, registers, and SRAM. Conducted corner simulations evaluating timing, power, and noise margins.
+
+### [Digital Circuit Fault Simulation | Python](https://github.com/yourusername/fault-simulation-python)
+Built an end-to-end fault simulation and analysis system in Python supporting manual, hex, and randomized test vectors. Applied SCOAP and Monte Carlo techniques to assess circuit testability, with results visualized using Pandas and Matplotlib.
+
+### [Handwritten Math OCR | Deep Learning](https://github.com/yourusername/handwritten-math-ocr)
+Trained CNNs using PyTorch and TensorFlow for optical character recognition of handwritten mathematical content, improving accuracy from 88.9% to 96%. Fine-tuned Microsoft's TrOCR transformer model on a custom dataset and integrated it into a real-time GUI application.
+
+### [Embedded Pet-Security System | Tiva C](https://github.com/yourusername/embedded-pet-security)
+Developed an embedded security system using a Tiva C microcontroller and PIR motion sensor. Implemented PWM-based audio playback, LED indicators, and a 7-segment display. Designed modular C drivers for all peripherals with false-trigger prevention logic.
+
+---
+
+## Currently Exploring
+- System Verilog
+- RTL Verification
+
+---
+
+## Let's Connect
+- [LinkedIn](www.linkedin.com/in/kartikee-shukla)
+- kartikee.shukla@gmail.com
+
+Thanks for stopping by, feel free to explore my repositories and reach out!
