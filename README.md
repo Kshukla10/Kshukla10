@@ -22,9 +22,6 @@ Computer Engineering student at University of Illinois Chicago, graduating May 2
 ### [8-bit ALU | Verilog HDL](https://github.com/Kshukla10/8-bit-ALU-Verilog) 
 Designed and implemented a fully functional 8-bit ALU supporting arithmetic, logical, and shift operations. Built a structured datapath with a dedicated control unit and developed carry-out, overflow, and shift status flags. Verified using ModelSim simulation and a custom testbench.
 
-### [Digital Circuit Fault Simulation | Python](https://github.com/yourusername/fault-simulation-python)
-Built an end-to-end fault simulation and analysis system in Python supporting manual, hex, and randomized test vectors. Applied SCOAP and Monte Carlo techniques to assess circuit testability, with results visualized using Pandas and Matplotlib.
-
 ### [Handwritten Math OCR | Deep Learning](https://github.com/yourusername/handwritten-math-ocr)
 Trained CNNs using PyTorch and TensorFlow for optical character recognition of handwritten mathematical content, improving accuracy from 88.9% to 96%. Fine-tuned Microsoft's TrOCR transformer model on a custom dataset and integrated it into a real-time GUI application.
 
